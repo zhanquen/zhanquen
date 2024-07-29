@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zhanquen
-- 👀 I’m interested in control and testing of engineering system
 - 🌱 I’m currently learning in PSL - Mines Paris
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zhan.jing@etu.minesparis.psl.eu

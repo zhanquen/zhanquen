@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zhanquen
-- 🌱 I’m currently learning in PSL - Mines Paris
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zhan.jing@etu.minesparis.psl.eu
+- Know my projects https://zhanquen.github.io/zhanquen.github.io-index.html/
 
 <!---
 zhanquen/zhanquen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
